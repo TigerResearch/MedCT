@@ -9,7 +9,7 @@ Our first release contains:
 3. The MedCT foundation model: [MedBERT](https://huggingface.co/TigerResearch/MedBERT);
 4. The MedCT NER model training data: [MedCT-clinical-notes](https://huggingface.co/datasets/TigerResearch/MedCT-clinical-notes);
 5. The MedCT and the search application demos.
-	MedCT: https://medct.tigerbot.com/
-	MedSearch: https://medsearch.tigerbot.com/
+	* MedCT: https://medct.tigerbot.com/
+	* MedSearch: https://medsearch.tigerbot.com/
 
 
